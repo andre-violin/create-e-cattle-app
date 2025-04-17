@@ -1,4 +1,9 @@
-![Logo Create e-Cattle](assets/logo.png){style="display: block; margin: auto"}
+<!-- ![Logo Create e-Cattle](assets/logo.png){style="display: block; margin: auto"} -->
+<a href="https://www.npmjs.com/package/create-e-cattle-app">
+    <img src="/assets/logo.png" alt="Create e-Cattle logo" title="Create e-Cattle" style="display: block; margin: auto" />
+</a>
+
+---
 
 ## Sobre o Create e-Cattle
 
